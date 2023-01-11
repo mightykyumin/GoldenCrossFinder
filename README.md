@@ -18,3 +18,8 @@ Description
 * Calculates the MA20 and MA60
 * When MA20 goes above MA60, signal golden crossed
 * Used to check whether the market is bull market or bear market
+
+Future Plan
+--------------------
+* Update UI
+* Add more coins
